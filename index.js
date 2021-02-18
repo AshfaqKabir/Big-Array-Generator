@@ -5,6 +5,6 @@ exports.generate = function arrGenerator(args) {
     arr.push(Math.floor(Math.random() * (max - min + 1)) + min);
   }
   if (sort === true && reverse === false) return arr.sort((a, b) => a - b);
-  else if (reverse == true) return arr.sort((a, b) => b - a)
+  else if (reverse == true) return arr.sort((a, b) => b - a);
   else return arr;
 };

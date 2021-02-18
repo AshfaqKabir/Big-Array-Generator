@@ -1,20 +1,24 @@
 # Big Array Generator
 
 ## Description
-This is an array generator primarily created to generate HUGE SIZE ( 5000 >) arrays.
+
+This is an array generator primarily created to generate HUGE SIZE ( 10000 > ) arrays.
 
 There is also a Vs code extension: https://www.example.com
 
-And Browser extensions to use in online editors
-Firefox: https://www.example.com
-Chrome: https://www.example.com
+And Browser extensions to use in online editors.
 
+- Firefox: https://www.example.com
+- Chrome: https://www.example.com
 
 ## Installation
-`$ npm i arrays-generators --save`
 
+```
+$ npm i big-array-generator --save
+```
 
 ## Usage
+
 ```
 const { generate } = require("arrGenerator")
 

@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AshfaqKabir/JS-DataStructures.git"
+    "url": "git+https://github.com/AshfaqKabir/Big-Array-Generator.git"
   },
  "keywords": [
     "random",
@@ -29,7 +29,7 @@
   "author": "Ashfaq Kabir",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AshfaqKabir/JS-DataStructures/issues"
+    "url": "https://github.com/AshfaqKabir/Big-Array-Generator/issues"
   },
-  "homepage": "https://github.com/AshfaqKabir/JS-DataStructures#readme"
+  "homepage": "https://github.com/AshfaqKabir/Big-Array-Generator#readme"
 }
