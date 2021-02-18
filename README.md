@@ -1,5 +1,7 @@
 # Big Array Generator
 
+<p>&nbsp;</p>
+
 ## Description
 
 This is an array generator primarily created to generate HUGE SIZE ( 10000 > ) arrays.
@@ -14,15 +16,15 @@ And Browser extensions to use in online editors.
 ## Installation
 
 ```
-$ npm i big-array-generator --save
+$ npm i big-array-generator
 ```
 
 ## Usage
 
 ```
-const { generate } = require("arrGenerator")
+const { generate } = require("big-array-generator")
 
-/* Inovke the function */
+/* Invoke the function */
 generate({}) // => [23,99,10,50,2] (random array)
 ```
 
