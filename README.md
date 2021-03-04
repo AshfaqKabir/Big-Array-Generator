@@ -10,8 +10,7 @@ There is also a Vs code extension: https://www.example.com
 
 And Browser extensions to use in online editors.
 
-- Firefox: https://www.example.com
-- Chrome: https://www.example.com
+- Firefox: https://mzl.la/2Ort5an
 
 ## Installation
 
