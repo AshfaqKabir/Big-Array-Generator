@@ -12,6 +12,14 @@ And Browser extensions to use in online editors.
 
 - Firefox: https://mzl.la/2Ort5an
 
+| Firefox Addon Look  |       Parameters        |
+| :-----------------: | :---------------------: |
+| ![](./imgs/arr.png) | ![](./imgs/arrSize.png) |
+
+| An Array of Size 3 Million |
+| :------------------------: |
+| ![](./imgs/arrMillion.png) |
+
 ## Installation
 
 ```

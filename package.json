@@ -1,6 +1,6 @@
 {
   "name": "big-array-generator",
-  "version": "1.0.4",
+  "version": "1.0.8",
   "description": "Generate Big Number of Arrays ( 5000 > )",
   "main": "index.js",
   "scripts": {
